@@ -14,4 +14,13 @@ code {
 
 .card-comp {
   text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.addItem {
+  width: 72px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  margin-left: 380px;
 }
